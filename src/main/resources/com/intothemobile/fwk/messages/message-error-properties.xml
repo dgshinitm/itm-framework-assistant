@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Error messages</comment>
+
+    <entry key="message.error.common.title">General runtime error</entry>
+    <entry key="message.error.common.exception">Exception</entry>
+    <entry key="message.error.common.exception.type">Exception Type</entry>
+    <entry key="message.error.common.exception.message">Messages</entry>
+    <entry key="message.error.common.request.url">Request URL</entry>
+    
+    <entry key="message.error.access.denied">You can not access this page.</entry>
+    
+    <entry key="message.error.404.title">404 Not Found</entry>
+    <entry key="message.error.404.message">Sorry. There is no requested page.</entry>
+    <entry key="message.error.500.title">500 Internal Server Error</entry>
+    <entry key="message.error.500.message">Sorry. There is some problem on server.</entry>
+    
+    <entry key="message.error.run.001.001">[001.001] Incorrect authentication key error occured when you login.</entry>
+    <entry key="message.error.run.001.002">[001.002] Please check again login id or password.</entry>
+    <entry key="message.error.run.001.003">[001.003] Wrong password. ({0} times password error)</entry>
+    
+</properties>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Common messages</comment>
+
+    <entry key="message.common.ok">OK</entry>
+
+    <entry key="message.common.search">Search</entry>
+	<entry key="message.common.validation.input">You must input {0}.</entry>
+    <entry key="message.common.search.description">Search about {0}.</entry>
+    
+	<entry key="message.common.form.id">User ID</entry>
+	<entry key="message.common.form.password">Password</entry>
+	<entry key="message.common.form.login">Login</entry>
+</properties>

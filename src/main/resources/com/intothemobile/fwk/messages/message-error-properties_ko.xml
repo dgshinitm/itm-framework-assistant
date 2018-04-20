@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Common messages</comment>
+
+    <entry key="message.error.common.title">General runtime error</entry>
+    <entry key="message.error.common.exception">Exception</entry>
+    <entry key="message.error.common.exception.type">Exception Type</entry>
+    <entry key="message.error.common.exception.message">Messages</entry>
+    <entry key="message.error.common.request.url">Request URL</entry>
+    
+    <entry key="message.error.access.denied">요청하신 페이지에 접근 권한이 없습니다.</entry>
+    
+    <entry key="message.error.404.title">404 페이지를 찾을 수 없습니다.</entry>
+    <entry key="message.error.404.message">죄송합니다. 요청하신 페이지를 찾을 수 없습니다.</entry>
+    <entry key="message.error.500.title">500 서버 오류</entry>
+    <entry key="message.error.500.message">죄송합니다. 서버에 오류가 발생했습니다.</entry>
+    
+    <entry key="message.error.run.001.001">[001.001] 로그인 보안 인증키 오류입니다.</entry>
+    <entry key="message.error.run.001.002">[001.002] 아이디 혹은 비밀번호를 확인하세요.</entry>
+    <entry key="message.error.run.001.003">[001.003] 잘못된 비밀번호입니다. (오류 횟수 {0}회)</entry>
+</properties>

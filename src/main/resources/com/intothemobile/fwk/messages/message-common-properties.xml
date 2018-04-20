@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>Common messages</comment>
+	
+	<entry key="message.common.ok">OK</entry>
+	
+	<entry key="message.common.search">조회</entry>
+	<entry key="message.common.add">추가</entry>
+	<entry key="message.common.validation.input">{0}(을/를) 입력하세요.</entry>
+	<entry key="message.common.search.description">{0}(을/를) 조회합니다.</entry>
+	<entry key="message.common.manage.description">{0}(을/를) 관리합니다.</entry>
+	<entry key="message.common.reg.manage.description">{0}(을/를) 등록하고 관리합니다.</entry>
+	<entry key="message.common.new.reg.description">{0}(을/를) 신규 등록합니다.</entry>
+	<entry key="message.common.view.order">표시순서</entry>
+	<entry key="message.common.use.yn">사용여부</entry>
+	<entry key="message.common.use.yes">사용</entry>
+	<entry key="message.common.use.no">미사용</entry>
+
+	<entry key="message.common.create.date">입력일시</entry>
+	<entry key="message.common.create.by">입력자</entry>
+	<entry key="message.common.modified.date">수정일시</entry>
+	<entry key="message.common.modified.by">수정자</entry>
+	
+	<entry key="message.common.input.datetime">입력일시</entry>
+	<entry key="message.common.input.resp">입력자</entry>
+	<entry key="message.common.update.datetime">수정일시</entry>
+	<entry key="message.common.update.resp">수정자</entry>
+	<entry key="message.common.delete.confirm.message">삭제하시겠습니까?</entry>
+	<entry key="message.common.email">이메일</entry>
+	<entry key="message.common.phone.no">전화</entry>
+	<entry key="message.common.address">주소</entry>
+	
+	<entry key="message.common.new">신규</entry>
+	<entry key="message.common.new.add.site">신규 사이트를 등록합니다.</entry>
+	<entry key="message.common.new.add.user">신규 사용자를 등록합니다.</entry>
+	
+	<entry key="message.common.form.id">사용자ID</entry>
+	<entry key="message.common.form.password">비밀번호</entry>
+	<entry key="message.common.form.login">로그인</entry>
+
+	<entry key="message.common.language.korean">한국어</entry>
+	
+	<entry key="message.common.menu.name.menu">메뉴</entry>
+	<entry key="message.common.menu.name.menugroup">메뉴그룹</entry>
+	<entry key="message.common.menu.name.menuid">메뉴ID</entry>
+	<entry key="message.common.menu.name.menutype">메뉴형식</entry>
+	<entry key="message.common.menu.name.menuname">메뉴명</entry>
+	<entry key="message.common.description">설명</entry>
+	<entry key="message.common.icon">아이콘</entry>
+	<entry key="message.common.language">언어</entry>
+	<entry key="message.common.language.korean">한국어</entry>
+	<entry key="message.common.menu.name.menumanagement">메뉴 관리</entry>
+</properties>
