@@ -42,5 +42,8 @@ buildNumber.properties
 /build/
 .gradle/
 /bin/
+<<<<<<< HEAD
 /.pmd
 /.scannerwork/
+=======
+>>>>>>> b91f91ba8e74fda2befab555ebeaf5234e5b8e8a
